@@ -79,7 +79,7 @@ PWMB1  | motorB  | 13
 ### Servomotor de recolección 
 Nombre | Motor |GPIO 
 --- | --- | --- 
-AIN_11 | motor 3 | 32
+myServo | servo | 32
 
 
 <div>
