@@ -49,7 +49,7 @@ Puede seguir está guía para la instalación como una segunda opción
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5055.jpg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="Robofut 2024">
     </div>
 </div>
 ## Pinout
