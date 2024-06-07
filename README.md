@@ -1,7 +1,7 @@
 # CFStem-2024
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM%20(2).jpeg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM%20(2).jpeg" alt="CFSTEM 2024">
     </div>
 </div>
 
@@ -49,7 +49,7 @@ Puede seguir está guía para la instalación como una segunda opción
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="CFSTEM 2024">
     </div>
 </div>
 ## Pinout
@@ -60,7 +60,7 @@ Nombre | GPIO
 VCC | 5VDC a 12VDC
 VSS | GND
 
-### Motores de movimiento (M1 & M2)
+### Motores de movimiento (M1 & M2) (M3 & M4)
 Nombre | Motor |GPIO 
 --- | --- | --- 
 AIN_1 | motor1 | 18
@@ -70,10 +70,6 @@ BIN_1 | motor1 | 27
 BIN_2 | motor2 | 14
 PWMB  | motorB | 2
 
-### Motores de disparador (M3 & M4)
-
-Nombre | Motor |GPIO 
---- | --- | --- 
 AIN_11 | motor 3 | 32
 AIN_22 | motor 3 | 33
 PWMA1  | motorA  | 12
@@ -81,9 +77,11 @@ BIN_11 | motor 4 | 25
 BIN_22 | motor 4 | 26
 PWMB1  | motorB  | 13
 
+### Servomotor de recolección 
+AIN_11 | motor 3 | 32
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="CFSTEM 2024">
     </div>
 </div>
 
