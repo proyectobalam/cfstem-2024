@@ -76,7 +76,7 @@ BIN_11 | motor 4 | 25
 BIN_22 | motor 4 | 26
 PWMB1  | motorB  | 13
 
-## Servomotor de recolección 
+### Servomotor de recolección 
 Nombre | Motor |GPIO 
 --- | --- | --- 
 AIN_11 | motor 3 | 32
