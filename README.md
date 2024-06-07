@@ -61,17 +61,30 @@ VCC | 5VDC a 12VDC
 VSS | GND
 
 ### Motores de movimiento (M1 & M2) (M3 & M4)
+### Motor 1
 Nombre | Motor |GPIO 
 --- | --- | --- 
 AIN_1 | motor1 | 18
 AIN_2 | motor2 | 5
 PWMA  | motorA | 15
+
+### Motor 2
+Nombre | Motor |GPIO 
+--- | --- | --- 
 BIN_1 | motor1 | 27
 BIN_2 | motor2 | 14
 PWMB  | motorB | 2
+
+### Motor 3
+Nombre | Motor |GPIO 
+--- | --- | --- 
 AIN_11 | motor 3 | 32
 AIN_22 | motor 3 | 33
 PWMA1  | motorA  | 12
+
+### Motor 3
+Nombre | Motor |GPIO 
+--- | --- | --- 
 BIN_11 | motor 4 | 25
 BIN_22 | motor 4 | 26
 PWMB1  | motorB  | 13
