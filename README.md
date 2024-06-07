@@ -49,7 +49,7 @@ Puede seguir está guía para la instalación como una segunda opción
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM.jpeg" alt="CFSTEM 2024">
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/Foto2.jpeg" alt="CFSTEM 2024">
     </div>
 </div>
 ## Pinout
