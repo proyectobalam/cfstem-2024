@@ -82,7 +82,7 @@ AIN_11 | motor 3 | 32
 AIN_22 | motor 3 | 33
 PWMA1  | motorA  | 12
 
-### Motor 3
+### Motor 4
 Nombre | Motor |GPIO 
 --- | --- | --- 
 BIN_11 | motor 4 | 25
