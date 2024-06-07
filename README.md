@@ -1,4 +1,9 @@
 # CFStem-2024
+<div>
+    <div align=center>
+        <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/WhatsApp%20Image%202024-06-07%20at%202.37.07%20PM%20(2).jpeg" alt="Robofut 2024">
+    </div>
+</div>
 
 ## Instalación de la Tarjeta ESP32
 
@@ -42,6 +47,11 @@ Puede seguir está guía para la instalación como una segunda opción
 
 [DRIVER_CH340]: https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#drivers-if-you-need-them
 
+<div>
+    <div align=center>
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5055.jpg" alt="Robofut 2024">
+    </div>
+</div>
 ## Pinout
 
 ### Voltaje de alimentación
@@ -70,6 +80,13 @@ PWMA1  | motorA  | 12
 BIN_11 | motor 4 | 25
 BIN_22 | motor 4 | 26
 PWMB1  | motorB  | 13
+
+<div>
+    <div align=center>
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5055.jpg" alt="Robofut 2024">
+    </div>
+</div>
+
 
 ## Manejo de motores
 Es muy importante que puedas comprender el manejo de los motores realizando un control digital binario (HIGH y LOW) y un control con PWM (valores entre 0 - 255).
