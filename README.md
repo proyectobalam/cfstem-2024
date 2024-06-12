@@ -52,6 +52,7 @@ Puede seguir está guía para la instalación como una segunda opción
         <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/Foto2.jpeg" alt="CFSTEM 2024">
     </div>
 </div>
+
 ### Pinout
 
 ### Voltaje de alimentación
