@@ -52,7 +52,7 @@ Puede seguir está guía para la instalación como una segunda opción
         <img src="https://github.com/proyectobalam/cfstem-2024/blob/main/Im%C3%A1genes%20-%20CFSTEM/Foto2.jpeg" alt="CFSTEM 2024">
     </div>
 </div>
-## Pinout
+### Pinout
 
 ### Voltaje de alimentación
 Nombre | GPIO 
@@ -108,13 +108,25 @@ Es muy importante que puedas comprender el manejo de los motores realizando un c
 Para comprender mejor el tema es recomendable que puedas revisar la hoja de datos de Sparkfun que es el fabricante del módulo TB6612FNG.
 
 **Recuerda que la libreria "TB6612FNG" la puedes encontrar en la parte de arriba en la carpeta "Librerias"**.
+## Manejo de motores
+Es muy importante que puedas comprender el manejo de los motores realizando un control digital binario (HIGH y LOW) y un control con PWM (valores entre 0 - 255).
 
+Para comprender mejor el tema es recomendable que puedas revisar la hoja de datos de Sparkfun que es el fabricante del módulo TB6612FNG.
+
+**Recuerda que la libreria "TB6612FNG" la puedes encontrar en la parte de arriba en la carpeta "Librerias"**.
+
+## Control 
+Si deseamos utilizar un mando de PS4 es fundamental configurarlo con la Mac de nuestra tarjeta ESP32, para conocer esta MAC tenemos un código base para poder conocerla.
+
+En el siguiente link encontrás el programa para actualizarle la MAC que debe buscar el control para poder conectarse con tu ESP32.
+
+Link: https://drive.google.com/file/d/1Wk8Bpc0_g7CyR7qsg66rEnvJ_Y3gb378/view
 
 ## Recomendaciones
 
 1. Si tu tarjeta ESP32 esta conectada a la computadora apaga el switch de encendido de la placa de tu robofut para no dañarla. 
-2. Cuando pongás en acción tu RoboFut recuerda tener cargadas tu baterias para un mejor funcionamiento.
-3. Revisa tus conexiones siempre antes de poner a prueba tu RoboFut 2024.
+2. Cuando pongás en acción tu CF STEM recuerda tener cargadas tu baterias para un mejor funcionamiento.
+3. Revisa tus conexiones siempre antes de poner a prueba tu CF SteM 2024.
 <div>
     <div align=center>
  	<strong>¡Te animamos a mejorar las programaciones base! Libera toda tu imaginación y creatividad para lograr el máximo rendimiento de tu RoboFut. ¡Sabemos que puedes hacerlo!</strong>
